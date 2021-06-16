@@ -1,1 +1,3 @@
-# python-lv1
+## Mini Projetos em Python
+
+Neste repositório serão comitados mini-projetos em Python.
